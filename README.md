@@ -18,7 +18,7 @@ Before running the script, you need to install the required Python libraries. Yo
 
 ```bash
 pip install ecdsa pycryptodome base58
-
+```
 
 ## Output
 ```less
