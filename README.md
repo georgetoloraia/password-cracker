@@ -1,6 +1,25 @@
 # password-cracker
 - Need New I D E A S ... !!!
 
+# Bitcoin Address Generator
+
+This project is designed to generate random private keys, convert them to compressed public keys, and then generate Bitcoin addresses. The goal is to find Bitcoin addresses that start with a specific prefix (in this case, "13zb").
+
+## Requirements
+
+- Python 3.x
+- `ecdsa` library
+- `pycryptodome` library
+- `base58` library
+
+## Installation
+
+Before running the script, you need to install the required Python libraries. You can install them using `pip`:
+
+```bash
+pip install ecdsa pycryptodome base58
+
+
 ## Output
 ```less
 george@george-Aspire-A515-58P:~/Desktop/password-cracker$ python3 main.py
