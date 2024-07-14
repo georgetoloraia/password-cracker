@@ -1,9 +1,8 @@
 # password-cracker
 - Need New I D E A S ... !!!
 
-# Bitcoin Address Generator
 
-This project is designed to generate random private keys, convert them to compressed public keys, and then generate Bitcoin addresses. The goal is to find Bitcoin addresses that start with a specific prefix (in this case, "13zb").
+This project is designed to generate random private keys, convert them to compressed public keys, and then generate Bitcoin addresses. The goal is to find Bitcoin addresses that start with a specific prefix (in this case, "13zb1h").
 
 ## Requirements
 
