@@ -2,7 +2,7 @@
 - Need New I D E A S ... !!!
 
 ## Output
-```css
+```less
 george@george-Aspire-A515-58P:~/Desktop/password-cracker$ python3 main.py
 Initial Random Hex: 0000000000000000000000000000000000000000000000034f9daf962caffabc
 Bitcoin Address: 13zb1aBQHHm9jxofxgnGkpcg8F7yr5JttU
